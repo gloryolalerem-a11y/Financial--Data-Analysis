@@ -1,4 +1,4 @@
-#Financial depo
+#Bank Deposit Subscription Analysis Dashboard
 
 # Project Overview
 This project analyzes customer deposit subscription behavior using Excel dashboards and pivot table analysis.
