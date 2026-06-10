@@ -15,7 +15,7 @@ This project analyzes customer deposit subscription behavior using Excel dashboa
 - Deposit Rate: 12%
 - Average Balance: 1,362
 # Dashboard Preview
-<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/3a151723-a0ce-4cff-b7c8-cce058a0c89c" />
+<img width="1094" height="559" alt="Image" src="https://github.com/user-attachments/assets/e2c81bc1-8966-41d5-83b7-9fb3726ff610" />
 # Key Insights
 1. Management professionals had the highest deposit subscriptions.
 2. Married customers showed stronger deposit participation.
